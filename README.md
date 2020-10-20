@@ -1,2 +1,5 @@
 # NoobQi_leetcode
-This is my leetcode record, start with python, practice with Java and review with C++
+
+Jaden's leetcode journey.
+
+Using python to understand data structure and algorithm, practice with Java and review with C++.
